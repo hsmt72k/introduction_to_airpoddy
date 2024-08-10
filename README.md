@@ -29,8 +29,9 @@
 1. 🤖 [はじめに](#intro)
 2. 🔗 [URL](#url)
 3. 🔋 [アプリの機能](#feature)
-4. 🚀 [アプリの利用サンプル](#example)
-5. 🤸 [終わりに](#outro)
+4. 💻 [画面一覧](#screen_list)
+5. 🚀 [アプリの利用サンプル](#example)
+6. 🤸 [終わりに](#outro)
 
 ## <a name="intro">🤖 はじめに</a>
 
@@ -175,6 +176,12 @@ AirPoddy
 ##### すでにいくつか番組を作成しているユーザのプロフィール
 
 <img src="./images/profile_with_some_podcast.png" width="360px" />
+
+
+## <a name="example">アプリの利用サンプル</a>
+
+<!-- ./images/airpoddy_demo.mp4 -->
+<video src="https://github.com/user-attachments/assets/e1e4d9a1-9f94-4c99-9e12-08e7d8e8906a" controls="true"></video>
 
 ## <a name="outro">🤸 おわりに</a>
 
